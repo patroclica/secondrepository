@@ -1,2 +1,10 @@
 __pycache__/
+
+"""
+this is for OSX
+"""
 .DS_Store
+
+"""ignore all pyc files
+"""
+*.pyc
